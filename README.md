@@ -1,2 +1,2 @@
 # WeatherApp
-link : https://apnaweatherapp.netlify.app/
+link : https://weathernewzone.netlify.app/
